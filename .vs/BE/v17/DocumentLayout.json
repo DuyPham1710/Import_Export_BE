@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|solutionrelative:be\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|d:\\code\\importexport\\be\\be\\migrations\\20250916112321_addcreatedatandisactivetoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|solutionrelative:be\\migrations\\20250916112321_addcreatedatandisactivetoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|d:\\code\\importexport\\be\\be\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|solutionrelative:be\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|d:\\code\\importexport\\be\\be\\dto\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|solutionrelative:be\\dto\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|d:\\code\\importexport\\be\\be\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|solutionrelative:be\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|d:\\code\\importexport\\be\\be\\migrations\\20250916112321_addcreatedatandisactivetoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|solutionrelative:be\\migrations\\20250916112321_addcreatedatandisactivetoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|d:\\code\\importexport\\be\\be\\dto\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|solutionrelative:be\\dto\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3969BBF1-2985-433D-8B5F-8B2441030D09}|BE\\BE.csproj|d:\\code\\importexport\\be\\be\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "20250916112321_AddCreatedAtAndIsActiveToProduct.cs",
               "DocumentMoniker": "D:\\CODE\\ImportExport\\BE\\BE\\Migrations\\20250916112321_AddCreatedAtAndIsActiveToProduct.cs",
               "RelativeDocumentMoniker": "BE\\Migrations\\20250916112321_AddCreatedAtAndIsActiveToProduct.cs",
@@ -66,25 +66,23 @@
               "RelativeToolTip": "BE\\Migrations\\20250916112321_AddCreatedAtAndIsActiveToProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T11:31:00.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T11:31:00.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProductModel.cs",
               "DocumentMoniker": "D:\\CODE\\ImportExport\\BE\\BE\\models\\ProductModel.cs",
               "RelativeDocumentMoniker": "BE\\models\\ProductModel.cs",
               "ToolTip": "D:\\CODE\\ImportExport\\BE\\BE\\models\\ProductModel.cs",
               "RelativeToolTip": "BE\\models\\ProductModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T10:12:26.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T10:12:26.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CreateProductRequest.cs",
               "DocumentMoniker": "D:\\CODE\\ImportExport\\BE\\BE\\dto\\CreateProductRequest.cs",
               "RelativeDocumentMoniker": "BE\\dto\\CreateProductRequest.cs",
@@ -92,21 +90,19 @@
               "RelativeToolTip": "BE\\dto\\CreateProductRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T10:11:50.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T10:11:50.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\CODE\\ImportExport\\BE\\BE\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "BE\\Entities\\Product.cs",
               "ToolTip": "D:\\CODE\\ImportExport\\BE\\BE\\Entities\\Product.cs",
               "RelativeToolTip": "BE\\Entities\\Product.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T04:00:26.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T04:00:26.525Z"
             },
             {
               "$type": "Document",
@@ -116,7 +112,7 @@
               "RelativeDocumentMoniker": "BE\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\CODE\\ImportExport\\BE\\BE\\Controllers\\ProductController.cs",
               "RelativeToolTip": "BE\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAwCEAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAowGkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T04:19:50.131Z",
               "EditorCaption": ""
