@@ -10,5 +10,7 @@ namespace BE.models
         public string Price { get; set; } = string.Empty;
         public string Stock { get; set; } = string.Empty;
         public string Images { get; set; } = string.Empty;
+        public DateTime CreatedAt { get; set; } = DateTime.Now;
+        public bool IsActive { get; set; } = true;
     }
 }

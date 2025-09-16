@@ -30,7 +30,9 @@ namespace BE.Controllers
                 Description = p.Description,
                 Price = p.Price,
                 Stock = p.Stock,
-                Images = p.Images
+                Images = p.Images,
+                CreatedAt = p.CreatedAt,
+                IsActive = p.IsActive
             }).ToList();
 
             _context.Products.AddRange(entities);

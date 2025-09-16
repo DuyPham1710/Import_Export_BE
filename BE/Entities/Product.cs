@@ -30,5 +30,11 @@ namespace BE.Entities
         [StringLength(100)]
         [Column("Images")]
         public string Images { get; set; } = string.Empty;
+
+        [Column("CreatedAt")]
+        public DateTime CreatedAt { get; set; } = DateTime.Now;
+
+        [Column("IsActive")]
+        public bool IsActive { get; set; } = true;
     }
 }

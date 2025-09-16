@@ -169,3 +169,4 @@ D:\CODE\ImportExport\BE\BE\obj\Debug\net8.0\refint\BE.dll
 D:\CODE\ImportExport\BE\BE\obj\Debug\net8.0\BE.pdb
 D:\CODE\ImportExport\BE\BE\obj\Debug\net8.0\BE.genruntimeconfig.cache
 D:\CODE\ImportExport\BE\BE\obj\Debug\net8.0\ref\BE.dll
+D:\CODE\ImportExport\BE\BE\obj\Debug\net8.0\BE.sourcelink.json
